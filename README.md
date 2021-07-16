@@ -15,9 +15,11 @@ The code refers to the following repositories:
 
 Without their help, @Coekjan could hardly have completed the entire MOS-Lab.
 
-## Future
+## Focus
 
 Post some **Key Content Analysis** on [my blog](https://coekjan.cn/)...
+1. [Introduction](https://coekjan.cn/2021/07/15/Introduction/)
+   * CP0, TLB, Interrupt & Exception
 
 ---
 
