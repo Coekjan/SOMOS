@@ -20,6 +20,8 @@ Without their help, @Coekjan could hardly have completed the entire MOS-Lab.
 Post some **Key Content Analysis** on [my blog](https://coekjan.cn/)...
 1. [Introduction](https://coekjan.cn/2021/07/15/Introduction/)
    * CP0, TLB, Interrupt & Exception
+2. [Boot And Memory Management](https://coekjan.cn/2021/07/23/Boot-And-Memory-Management/)
+   * Boot & Initialization, Physical Memory Management, Virtual Memory Management
 
 ---
 
