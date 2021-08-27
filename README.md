@@ -24,6 +24,8 @@ Post some **Key Content Analysis** on [my blog](https://coekjan.cn/)...
    * Boot & Initialization, Physical Memory Management, Virtual Memory Management
 3. [Process](https://coekjan.cn/2021/08/15/Process/)
    * Process, Schedule, Switch Address Space
+4. [Interrupt And Exception](https://coekjan.cn/2021/08/26/Interrupt-And-Exception/)
+   * Details of interrupt & exception
 
 ---
 
