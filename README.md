@@ -3,7 +3,7 @@ SOMOS
 
 > Shell On MIPS(R3000) Operating System
 
-**SOMOS** is based on **BUAA-MOS**, and the author **[@Coekjan](https://github.com/Coekjan)** has passed the excellent defense of MOS-Lab.
+**SOMOS** is based on **BUAA-MOS**.
 
 ---
 
