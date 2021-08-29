@@ -225,6 +225,7 @@ void page_init(void)
         pages[i].pp_ref = 0;
         LIST_INSERT_HEAD(&page_free_list, pages + i, pp_link);
     }
+    LIST_REMOVE(pa2page(PADDR(TIMESTACK - BY2PG)), pp_link);
 }
 
 /*Overview:
