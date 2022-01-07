@@ -17,14 +17,14 @@ Without their help, @Coekjan could hardly have completed the entire MOS-Lab.
 
 ## Focus
 
-Post some **Key Content Analysis** on [my blog](https://coekjan.cn/)...
-1. [Introduction](https://coekjan.cn/2021/07/15/Introduction/)
+Post some **Key Content Analysis** on [my blog](https://coekjan.github.io/)...
+1. [Introduction](https://coekjan.github.io/2021/07/15/Introduction/)
    * CP0, TLB, Interrupt & Exception
-2. [Boot And Memory Management](https://coekjan.cn/2021/07/23/Boot-And-Memory-Management/)
+2. [Boot And Memory Management](https://coekjan.github.io/2021/07/23/Boot-And-Memory-Management/)
    * Boot & Initialization, Physical Memory Management, Virtual Memory Management
-3. [Process](https://coekjan.cn/2021/08/15/Process/)
+3. [Process](https://coekjan.github.io/2021/08/15/Process/)
    * Process, Schedule, Switch Address Space
-4. [Interrupt And Exception](https://coekjan.cn/2021/08/26/Interrupt-And-Exception/)
+4. [Interrupt And Exception](https://coekjan.github.io/2021/08/26/Interrupt-And-Exception/)
    * Details of interrupt & exception
 
 ---
