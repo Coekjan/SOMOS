@@ -17,6 +17,8 @@ Without their help, @Coekjan could hardly have completed the entire MOS-Lab.
 
 ## Focus
 
+Support [Local Development](https://coekjan.github.io/2022/03/05/Local-Development/).
+
 Post some **Key Content Analysis** on [my blog](https://coekjan.github.io/)...
 1. [Introduction](https://coekjan.github.io/2021/07/15/Introduction/)
    * CP0, TLB, Interrupt & Exception
