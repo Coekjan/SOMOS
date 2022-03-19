@@ -101,7 +101,7 @@ void lp_Print(void (*output)(void *, char *, int),
 		/* check for other prefixes */
 		while (IsDigit(*fmt))
 		{
-			width += width * 10 + (Ctod(*fmt));
+			width = width * 10 + (Ctod(*fmt));
 			fmt++;
 		}
 		/* check format flag */
